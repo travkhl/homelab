@@ -1,0 +1,2 @@
+0 20 * * * python3 /home/travis/lights_off.py
+0 6 * * * python3 /home/travis/lights_on.py
